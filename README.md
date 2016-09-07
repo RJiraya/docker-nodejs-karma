@@ -4,7 +4,6 @@ A [Docker](https://www.docker.com/) container with
 - chrome for karma headless testing
 
 
-
 ```bash
 # run it
 
